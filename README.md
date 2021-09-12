@@ -1,4 +1,4 @@
-# ADVC80Project
-This project is created by Snehal Sawant
-This project is created to learn array and its method like push(), join().
-This project is made using Html, javascript and CSS.
+# ADVC80Proyecto
+Este proyecto fue creado por Snehal Sawant
+Este proyecto es creado para aprender el array y sus métodos como push(), join().
+Este proyecto está hecho con Html, javascript y CSS.
